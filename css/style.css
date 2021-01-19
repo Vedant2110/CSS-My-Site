@@ -61,15 +61,15 @@ hr{
 .cloud1 {
   width: 200px;
   position: absolute;
-  right: 417px;
-  top: 55px;
+  right: 26.0625%;
+  top: 3.2%;
 }
 
 .cloud2 {
   width: 200px;
   position: absolute;
-  left: 417px;
-  bottom: 275px;
+  left: 26.0625%;
+  bottom: 22.1875%;
 }
 
 .mountain {
